@@ -33,8 +33,8 @@ Certifique-se de atender aos requisitos a seguir:
 ### Clonar o repositório
 
 ```bash
-git clone https://github.com/seu-usuario/nome-do-repositorio.git
-cd nome-do-repositorio
+git clone https://github.com/VictorNBatista/AEDO-back.git
+cd AEDO-back
 ```
 ## Configurar o backend (Laravel 11)
 
